@@ -1,2 +1,3 @@
 created a file 
 to understand .git
+modifying the master / main branch
