@@ -1,1 +1,2 @@
-ll
+created a file 
+to understand .git
